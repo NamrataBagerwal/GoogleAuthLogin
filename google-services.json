@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "416464838534",
+    "project_id": "gauthlogindemo"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416464838534:android:f198567f9d2d2408",
+        "android_client_info": {
+          "package_name": "com.spec.googleauthlogindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416464838534-d7o23f411jgbnqo8a3dfu5otb89pgh2t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spec.googleauthlogindemo",
+            "certificate_hash": "cadbda913965331ce7dd6da7f0b6f9e83f01539d"
+          }
+        },
+        {
+          "client_id": "416464838534-ab25cekhehkhd0cpf66fgi8k5g7p624f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNot2i7ebqgsB3eN0ukFcYD1S1s3kxSZ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
